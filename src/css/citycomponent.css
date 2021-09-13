@@ -1,0 +1,40 @@
+.weather{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.timing{
+    font-weight: lighter;
+    font-size: 16px;
+    margin: 2px;
+}
+
+.image{
+    width:150px;
+    height:150px;
+    margin: 40px auto;
+}
+
+.hint{
+    font-size: 15px;
+    font-weight: bold;
+    margin : 10px auto; 
+}
+
+.search{
+    margin: 20px auto;
+
+}
+.search input{
+    padding: 10px;
+    font-size: 14px;
+    outline: none;
+}
+.search button{
+    padding: 10px;
+    font-size: 14px;
+    color: wheat;
+    background-color: #501e22;
+    border: #501e22 solid 2px;
+    outline: none;
+}

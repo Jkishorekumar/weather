@@ -1,0 +1,31 @@
+.infocontainer{
+    display: flex;
+    flex-direction: row;
+    margin: 5px 10px;
+    align-items: center;
+}
+
+.infolabel{
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin:15px;
+}
+
+.Sunrise{
+    display: flex;
+    flex-direction: row;
+}
+
+.Sunrise span{
+    margin: 0 5px 0 0;
+}
+
+.Sunset{
+    display: flex;
+    flex-direction: row;
+}
+
+.Sunset span{
+    margin:0 5px 0 0;
+}
